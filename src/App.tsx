@@ -8,7 +8,6 @@ import Calendar from "./components/Calendar";
 import AddOrChangeDelivery from "./components/AddOrChangeDelivery";
 
 // TODO Remove sorting, sort by Ful Date + Delivery ID
-// TODO Deploy to Github Pages
 
 // "Done":
 // Add "Add" button
